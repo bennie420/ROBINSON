@@ -6,6 +6,12 @@ Official repository and GitHub Pages documentation hosting supporting evidence, 
 The live portal is published via GitHub Pages:
 👉 **[https://bennie420.github.io/ROBINSON/](https://bennie420.github.io/ROBINSON/)**
 
+## 📋 Case Summary
+- **Case Number:** 26 113169 CZ
+- **Property Owner:** Margo Ray
+- **Respondent / Submitter:** Chris Pahrman
+- **Jurisdiction:** Thurston County Community Planning & Economic Development (CPED)
+
 ---
 
 ## 📁 Hosted Evidence & Materials
